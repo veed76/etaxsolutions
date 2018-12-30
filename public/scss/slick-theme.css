@@ -1,0 +1,40 @@
+.slick-dotted.slick-slider {
+  margin-bottom: 30px;
+}
+
+.slick-dots {
+  margin-top: 30px;
+  position: absolute;
+  bottom: -50px;
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-align: center;
+}
+
+.slick-dots li {
+  position: relative;
+  display: inline-block;
+  margin: 0 5px;
+  padding: 0;
+}
+
+.slick-dots li button {
+  display: block;
+  width: 10px;
+  height: 10px;
+  padding: 0;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  color: transparent;
+  outline: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+.slick-dots li.slick-active button {
+  background: #fff;
+}
+/*# sourceMappingURL=slick-theme.css.map */
